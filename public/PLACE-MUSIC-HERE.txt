@@ -1,0 +1,2 @@
+Place your audio file here as: wedding-music-placeholder.mp3
+(or update the wedding.music path in components/weddingConfig.js)
