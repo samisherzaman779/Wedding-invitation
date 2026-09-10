@@ -1,4 +1,4 @@
-# Sami & Muqaddas — Wedding Invitation (Next.js)
+# Wedding Invitation (Next.js)
 
 A faithful Next.js (App Router) conversion of the original single-file HTML
 wedding invitation. Same design, animations and interactions — loader,
